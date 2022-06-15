@@ -1,3 +1,3 @@
 # test-git-flow
 
-finish
+test
